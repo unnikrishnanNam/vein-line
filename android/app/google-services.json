@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "220809017366",
+    "project_id": "veinline-4d266",
+    "storage_bucket": "veinline-4d266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220809017366:android:a3365c4dedfbd2e9b19d37",
+        "android_client_info": {
+          "package_name": "com.example.veinline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220809017366-4cgnmhag9grpgsfajgmsvbtp9oc375hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.veinline",
+            "certificate_hash": "d756167c9505abf2a70b91f9ad9270d3279d4ead"
+          }
+        },
+        {
+          "client_id": "220809017366-kg6mi5089afebi0dsvto7pqg6i89j8lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Z5vA1y1VTT3R3AtnNMhDTgzkWbqjZn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220809017366-b9c00o7a3m8e7fv7rk95c18qmm027cq7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220809017366-jpiomnrsm4rqk4vd920fht758oftauao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.veinline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
